@@ -1,5 +1,5 @@
 // Protected By Dach Tech Team 🥤
-// Copy right @mradminblue2026 💙
+// Copy right mradminblue2026 💙
 //all rights reserved 🔒
 //reverse engeenering - modifications are strictly forbidden ❌
 //unless prior permission from developer 🧑‍💻
