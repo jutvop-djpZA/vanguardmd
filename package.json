@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
+    "postinstall": "npm rebuild better-sqlite3 --build-from-source",
     "dev": "nodemon index.js"
   },
   "dependencies": {
@@ -13,7 +14,7 @@
     "@hapi/boom": "^10.0.1",
     "acrcloud": "^1.4.0",
     "axios": "^1.8.4",
-    "better-sqlite3": "^12.10.0",
+    "better-sqlite3": "^11.0.0",
     "api-qasim": "^3.2.10",
     "chalk": "^4.1.2",
     "dotenv": "^16.4.5",
